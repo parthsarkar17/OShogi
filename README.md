@@ -1,4 +1,4 @@
-# WARP
+# OShogi
 Team Members:
 
 Robert HaoJia Wang hw533
