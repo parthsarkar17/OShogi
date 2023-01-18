@@ -1,0 +1,7 @@
+#temporary files
+\#*\#
+.DS_Store
+
+#build files
+_build
+*.zip
